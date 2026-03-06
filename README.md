@@ -8,3 +8,5 @@ This project is a modern take on the classic Snake game. It features a responsiv
 * **Arrow Keys**: Move the snake (Up, Down, Left, Right).
 * **Spacebar**: Restart the game after a 'Game Over'.
 * **ESC**: Exit the application.
+
+![Game Screenshot]("SnakeGame.png")
